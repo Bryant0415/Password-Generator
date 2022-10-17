@@ -28,3 +28,4 @@ THEN the password is written to the page
 ![Screenshot of site](https://github.com/Bryant0415/Password-Generator/blob/main/friendly-parakeet/Develop/Images/Picture2.png)
 
 # Deployed Site
+[Link to deployed site](https://bryant0415.github.io/Password-Generator/)
