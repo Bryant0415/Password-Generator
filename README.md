@@ -24,5 +24,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is written to the page
+![Screenshot of site](https://github.com/Bryant0415/Password-Generator/blob/main/friendly-parakeet/Develop/Images/Picture1.png)
+![Screenshot of site](https://github.com/Bryant0415/Password-Generator/blob/main/friendly-parakeet/Develop/Images/Picture2.png)
 
 # Deployed Site
